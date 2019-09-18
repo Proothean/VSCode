@@ -7,6 +7,7 @@ using namespace std;
 class Neuron
 {
     public:
+        Neuron(double val);
         // Fast Sigmoid Function
         //f(x) = x / (1+|x|) 
         void activate();
