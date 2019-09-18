@@ -1,7 +1,6 @@
 #include <iostream>
-#include "../inc/Neuron.hpp"
-#include <cmath>
-#include <cstdlib>
+//#include "../inc/Neuron.hpp"
+#include "Neuron.hpp"
 using namespace std;
 
 
