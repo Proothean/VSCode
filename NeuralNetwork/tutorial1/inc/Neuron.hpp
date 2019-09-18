@@ -20,7 +20,7 @@ class Neuron
         double  getVal() { return this->val; }
 
         double getActivatedVal() {return this->activatedVal; }
-        double getDerivedVal() { return this->deriveVal}
+        double getDerivedVal() { return this->derivedVal;}
 
 
     private:
@@ -30,6 +30,6 @@ class Neuron
         double activatedVal;
 
         double derivedVal;
-}
+};
 
 #endif

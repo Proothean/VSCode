@@ -1,6 +1,7 @@
 #include <iostream>
-#include <../inc/Neuron.hpp>
+#include "../inc/Neuron.hpp"
 #include <cmath>
+#include <cstdlib>
 using namespace std;
 
 //Constructor
